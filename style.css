@@ -295,13 +295,28 @@ h3 {
     width: 80%;
     margin: auto;
     padding-top: 100px;
-    text-align: center;
+}
+
+.testimon-cols {
+    flex-basis: 44%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    background: #fff3f3;
+    padding: 25px;
+    text-align: left;
+}
+
+.testimon img {
+    width: 100%;
+    border-radius: 10px;
 }
 
 .testimon h3 {
-    font-size: large;
+    font-size: larger;
+    text-align: left;
     color: #00113f;
 }
+
 
 .testimon h5 {
     font-size: smaller;
